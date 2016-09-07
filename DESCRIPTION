@@ -1,0 +1,9 @@
+Package: descrittive
+Type: Package
+Title: Analisi descrittive base
+Version: 0.1.0
+Authors@R: person("First", "Last", email = "first.last@example.com", role = c("aut", "cre"))
+Description: Il pacchetto possiede delle istruzioni che permettono di fare delle prime analisi descrittive.
+License: GPL
+LazyData: TRUE
+RoxygenNote: 5.0.1
